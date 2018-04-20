@@ -1,0 +1,4 @@
+function (err) {
+
+        console.log('Zapisano!');
+}
